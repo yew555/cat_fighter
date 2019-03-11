@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\benz-pc\desktop\catfighter\catfighter\catfighter\main.cpp(23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\benz-pc\desktop\catfighter\catfighter\catfighter\main.cpp(24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\benz-pc\desktop\catfighter\catfighter\catfighter\main.cpp(337): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\benz-pc\desktop\catfighter\catfighter\catfighter\main.cpp(343): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\benz-pc\desktop\catfighter\catfighter\catfighter\main.cpp(545): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  CatFighter.vcxproj -> C:\Users\Benz-PC\Desktop\CatFighter\CatFighter\x64\Debug\CatFighter.exe
